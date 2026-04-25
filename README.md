@@ -2,6 +2,7 @@
 # 🛒 Blinkit Sales Analysis Dashboard (Power BI)
 
 **Author:** Vaishnavi Nagpure
+
 **Project Type:** Academic / Internship Project
 
 🚀 Interactive Power BI dashboard analyzing Blinkit sales data
